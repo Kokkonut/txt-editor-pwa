@@ -41,5 +41,5 @@ registerRoute(
   })
 );
 
-const workbox = new Workbox('/sw.js');
-workbox.register();
+// const workbox = new Workbox('/sw.js');
+// workbox.register();
